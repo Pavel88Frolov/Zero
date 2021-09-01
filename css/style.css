@@ -1,0 +1,15 @@
+header {
+	background-color: #fff;
+}
+
+body {
+	font-size: 20px;
+}
+
+.block {
+	color: #fff;
+}
+
+.block__item {
+	color: #000;
+}
